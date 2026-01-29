@@ -41,7 +41,7 @@ img {
     border-radius: 30px;
 }
 @media(max-width: 600px){
-    .cont{
+    .cont > img{
         width: 65px;
         height: 65px;
     }
